@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "315554549495",
+    "firebase_url": "https://realtimegps-26637.firebaseio.com",
+    "project_id": "realtimegps-26637",
+    "storage_bucket": "realtimegps-26637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315554549495:android:8883ace9b9578dc2",
+        "android_client_info": {
+          "package_name": "com.example.agniva.realtimegps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315554549495-q8mejrah2tmfplque52i469s2lp1ne9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agniva.realtimegps",
+            "certificate_hash": "980a4e57b0364f0e7235b52141029e5c00528c43"
+          }
+        },
+        {
+          "client_id": "315554549495-viis55do736pht1luru8amem1i8qgu0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5c5RcQQpu4djiD7I5qKaioWSXA6uOWJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315554549495-viis55do736pht1luru8amem1i8qgu0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
